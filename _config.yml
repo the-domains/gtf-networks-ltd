@@ -1,0 +1,28 @@
+name: GTF Networks Ltd
+favicon: null
+layout_spectrum: 0.6268514753319323
+typography_spectrum: 0.43463996914215386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.19339493080042303
+  lightness: 0.934706507017836
+  saturation: 0.6878252618480474
+  rhythmicContrast: 0.8034065628889948
+purpose: []
